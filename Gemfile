@@ -51,6 +51,8 @@ group :development, :test do
   gem 'capybara'
   gem 'launchy'
   gem 'shoulda-matchers'
-  gem 'factory_girl_rails', '~> 4.0'
   gem 'pry-rails'
 end
+
+gem 'bootstrap-sass', '~> 3.3.7'
+gem 'devise', '~> 4.2'
